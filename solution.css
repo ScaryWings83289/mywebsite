@@ -1,0 +1,268 @@
+body
+{
+	font-family: Roboto;
+	background-color: #D5D7C8;
+}
+
+.content
+{
+	margin: 0.6% auto;
+	border: 10px double #FA1708;
+}
+
+.active
+{
+	color: #fff;
+	background-color: #080808;
+}
+
+.left
+{
+	padding: 4% 0;
+}
+
+.img-circle
+{
+	border: 2px solid black;
+	display: flex;
+	justify-content: center;
+	margin: 2% auto;
+	height: 90%;
+	width: 90%;
+}
+
+.h1
+{
+	margin-top: 0;
+	margin-bottom: 2%;
+	font-size: 400%;
+	font-family: Halvetica;
+	color: #9d50bb;
+	font-weight: 700;
+	opacity: .8;
+	font-family: Halvetica;
+	text-align: left;
+}
+
+.h3
+{
+	font-size: 300%;
+	font-family: Arial, Halvetica, Georgia;
+	color: #494A42;
+	font-weight: 400;
+	opacity: .9;
+}
+
+.h1:hover
+{
+	opacity: 1;
+}
+
+.resume
+{
+	background-color: #E6388B;
+	position: relative;
+  	display: inline-block;
+  	width: 32%;
+  	padding: 14% 0;
+  	border-radius: 50%;
+  	text-align: center;
+  	font-size: 90%;
+}
+
+.resume:hover 
+{
+    background-color: #c31432;
+}
+
+.license
+{
+	background-color: #31BBF1;
+	position: relative;
+  	display: inline-block;
+  	width: 32%;
+  	padding: 14% 0;
+  	border-radius: 50%;
+  	text-align: center;
+  	margin: 0 auto;
+  	font-size: 90%;
+}
+
+.license:hover 
+{
+    background-color: #c31432;
+}
+
+.projects
+{
+	background-color: #C5DF37;
+	position: relative;
+  	display: inline-block;
+  	width: 32%;
+  	padding: 14% 0;
+  	border-radius: 50%;
+  	text-align: center;
+  	margin-right: 0;
+  	font-size: 90%;
+}
+
+.projects:hover 
+{
+    background-color: #c31432;
+}
+
+.about
+{
+	text-align: justify;
+	font-size: 110%;
+	margin-top: 3%;
+}
+
+a
+{
+	color: #E6E7F6;
+}
+
+.footer
+{
+	margin-top: 1%;
+	font-family: Halvetica;
+	font-weight: bold;
+	background-color: black;
+	color: #F6ECF6;
+}
+
+ul
+{
+	padding-left: 0px;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+.logo
+{
+	border-radius: 99%;
+	height: 7%;
+	width: 7%;
+}
+
+.phones
+{
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2%;
+}
+
+#heading
+{
+	text-align: center;
+	font-size: 100%;
+	font-family: Georgia;
+	font-weight: 600;
+}
+
+.info
+{
+	background-color: #E6388B;
+	display: inline-block;
+	position: relative;
+	width: 30%;
+	padding: 10% 0;
+  	border-radius: 50%;
+  	text-align: center; 
+	color: #E6E7F6;
+	font-size: 90%;
+}
+
+.info:hover 
+{
+    background-color: #283c86;
+}
+
+.info3
+{
+	background-color: #E6388B;
+	display: inline-block;
+	position: relative;
+	width: 30%;
+	padding: 13% 0;
+  	border-radius: 50%;
+  	text-align: center; 
+	color: #E6E7F6;
+}
+
+.info3:hover 
+{
+    background-color: #283c86;
+}
+
+.info2
+{
+	display: inline-block;
+	text-align: justify;
+}
+
+.college
+{
+	height: 50%;
+	width: 50%;
+	border-radius: 99%;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+/*background-color: #C5DF37;
+	position: relative;
+  	display: inline-block;
+  	width: 32%;
+  	padding: 14% 0;
+  	border-radius: 50%;
+  	text-align: center;
+*/.project
+{
+	border: 1px solid red;
+	background-color: #0CAD12;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	width: 70%;
+	padding: 17% 0;
+	border-radius: 50%;
+	color: #E6E7F6;
+	margin: 5% 10%;
+}
+
+.project:hover 
+{
+    background-color: #667db6;
+    border: 1px solid red;
+}
+
+.latest
+{
+	font-size: 250%;
+	color: #f12711;
+	font-family: Georgia;
+	opacity: 0.8;
+}
+
+.latest:hover
+{
+	opacity: 1;
+}
+
+.photos
+{
+	margin: 2% 1%;
+}
+
+.img-thumbnail
+{
+	margin: 1% 0;
+}
